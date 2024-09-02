@@ -1,0 +1,27 @@
+body{
+    background-color:red;
+}
+h1{
+    background-color:ciano;
+    text-align:left;
+}
+h2{
+    background-color:ciano;
+    text-align:left;
+}
+h3{
+    background-color:ciano;
+    text-align:left;
+}
+p#centralizado{
+    text-align:center;
+}
+p#1paragrafo{
+    text-align:center;
+}
+p#esquerda{
+    text-align: left;
+}
+p#direito{
+    text-align: right;
+}
